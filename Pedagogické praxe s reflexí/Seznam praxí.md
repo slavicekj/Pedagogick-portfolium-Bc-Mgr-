@@ -50,4 +50,4 @@ Lucie Bryndová (D15468)
 
 ### Kroužek robotiky
 Od 2023 jsem zaměstnán v DDM Ostravice jako lektor kroužku robotiky
-- [**Potvrzení o praxi**]<Další materiály z praxe/Pedagogická praxe - potvrzení z DDM> - další soubory související s praxí
+- [**Potvrzení o praxi**](<Další materiály z praxe/Pedagogická praxe - potvrzení z DDM>) - další soubory související s praxí
